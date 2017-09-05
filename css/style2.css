@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.search-input{
+	background-color: lightblue;
+	height: 30px;
+}
+
+.header{
+	background-color: lightgrey;
+	height:300px;
+}
